@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>CMSC335 Project 7</title>
+</head>
+
+<body>
+    <h1>CMSC335 Project 7 - Hosting</h1>
+    <p><strong>Name:</strong> Yidi Zhao</p>
+
+    <p>
+        <strong>GitHub Location:</strong>
+        <a href="https://github.com/Yidiiiz/yidizhaoTERP">https://github.com/Yidiiiz/yidizhaoTERP</a>
+    </p>
+    <p>
+        <strong>Render Location:</strong>
+        <a href="https://yidizhaoterp.onrender.com/">https://yidizhaoterp.onrender.com/</a>
+    </p>
+    <p>
+        <strong>Clearing Database Movies:</strong>
+        <a href="https://yidizhaoterp.onrender.com/clearCollection">https://yidizhaoterp.onrender.com/clearCollection</a>
+    </p>
+    <p>
+        <strong>Inserting Movies:</strong>
+        <a href="https://yidizhaoterp.onrender.com/insertMovies">https://yidizhaoterp.onrender.com/insertMovies</a>
+    </p>
+    <p>
+        <strong>List Movies:</strong>
+        <a href="https://yidizhaoterp.onrender.com/listMovies">https://yidizhaoterp.onrender.com/listMovies</a>
+    </p>
+</body>
+</html>
